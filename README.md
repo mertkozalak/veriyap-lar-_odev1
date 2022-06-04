@@ -26,5 +26,8 @@ yazınız.
 4. [2,3,4,5,6,9,8,15,7]
 
 
+# patika hesabım :https://app.patika.dev/mertkozalak
+
+
 
 
